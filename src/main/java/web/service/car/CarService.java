@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class CarSource {
+public class CarService {
     private static final int MAX_COUNT_VALUE = 5;
 
     private static final List<Car> cars = new ArrayList<>();
